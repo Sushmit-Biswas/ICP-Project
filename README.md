@@ -2,6 +2,15 @@
 
 Welcome to the `hello` project! This repository is designed to help you kickstart your development journey on the Internet Computer. The provided template files offer a great starting point and are fully customizable, allowing you to integrate your own code to accelerate your development process.
 
+## 🌐 Visit My First Blockchain Website!
+
+I'm excited to share my very first website on the blockchain, hosted on the Internet Computer! Check it out:
+
+**[👉 Explore My Blockchain Website](http://lnt6j-paaaa-aaaal-qnakq-cai.icp0.io/)**
+
+Dive into the world of decentralized applications and see what the power of blockchain can achieve. Your feedback and thoughts are always welcome!
+
+
 ## 📂 Project Structure
 
 Feel free to explore the project directory structure and tweak the default configuration file. This setup is designed for local development and testing, ensuring that any changes you make won't impact your production deployments or identity tokens.
