@@ -77,7 +77,7 @@ When hosting frontend code without using DFX, make sure to adjust the configurat
   }
 }
 ```
-<⭕ Customize your createActor constructor as needed. 
+⭕ Customize your createActor constructor as needed. 
   
 ## 💡 Tips & Tricks
 <li>Experiment Freely: This setup is perfect for exploring and testing new features without worrying about production changes. </li>
